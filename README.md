@@ -90,9 +90,3 @@ This project implements a **zk-Rollup-based Layer 2 scaling solution** for Ether
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Next Steps
-
-- Customize the **zk-Proof generation** logic for your use case.
-- Explore integrating the zk-Rollup system with existing **DeFi protocols**.
-- Set up a **production deployment** on Ethereum Mainnet once thoroughly tested on testnets.
