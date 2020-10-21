@@ -86,7 +86,3 @@ This project implements a **zk-Rollup-based Layer 2 scaling solution** for Ether
 1. Fork this repository and clone it to your local machine.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request to merge changes into the main repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
